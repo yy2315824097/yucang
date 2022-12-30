@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: Arial,"微软雅黑","宋体";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.content-box {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+@mixin lineClamp($line:2) {
+  word-break: break-all;
+  overflow: hidden;
+  display: -webkit-box;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: $line;
+}
+
+img {
+  border: 0 none;
+  vertical-align: bottom;
+  -ms-interpolation-mode: bicubic;
+}
+ul,li {
+  list-style: none;
+  padding: 0;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+[v-cloak] {
+  display: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-d {
+  flex-direction: column;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-nowarp {
+  flex-wrap: nowrap !important;
+}
+
+.flex-warp {
+  flex-wrap: wrap !important;
+}
+
+.jc-fs {
+  justify-content: flex-start !important;
+}
+
+.jc-fe {
+  justify-content: flex-end !important;
+}
+
+.jc-c {
+  justify-content: center !important;
+}
+
+.jc-sb {
+  justify-content: space-between !important;
+}
+
+.jc-sa {
+  justify-content: space-around !important;
+}
+
+.ai-c {
+  align-items: center !important;
+}
+
+.ai-sb {
+  align-items: space-between !important;
+}
+
+.ai-sa {
+  align-items: space-around !important;
+}
+
+.ai-fe {
+  align-items: flex-end;
+}
+
+.ai-fs {
+  align-items: flex-start;
+}
