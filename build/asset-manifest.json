@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e35dc868.css",
+    "main.js": "/static/js/main.b8e981f4.js",
+    "static/js/787.f728f607.chunk.js": "/static/js/787.f728f607.chunk.js",
+    "static/media/responsibility-2.png": "/static/media/responsibility-2.ed4a2ab4144b32010940.png",
+    "static/media/advantages-2.png": "/static/media/advantages-2.76aa23989d124bdb6f4c.png",
+    "static/media/team-1.jpg": "/static/media/team-1.e35009a7dd0f6efefee8.jpg",
+    "static/media/company.jpg": "/static/media/company.af77717ea548c5fa7c1e.jpg",
+    "static/media/banner.jpeg": "/static/media/banner.c635f058ef1b0d9dcff8.jpeg",
+    "static/media/advantages-4.png": "/static/media/advantages-4.cbfbc58b8697ebbae6c8.png",
+    "static/media/responsibility-3.png": "/static/media/responsibility-3.a425067aedf22f9078b4.png",
+    "static/media/advantages-3.png": "/static/media/advantages-3.e82531e9e3b0994acac7.png",
+    "static/media/equipment-2.jpg": "/static/media/equipment-2.4089c2170c6556ad31bb.jpg",
+    "static/media/service-bg.jpeg": "/static/media/service-bg.a408fb6711735ce7c3e6.jpeg",
+    "static/media/responsibility-1.png": "/static/media/responsibility-1.100e02875ac31d9523f4.png",
+    "static/media/advantages-1.png": "/static/media/advantages-1.6240a8cac92ca527dd91.png",
+    "static/media/equipment-4.jpg": "/static/media/equipment-4.1479e1bf68f4b8deab0b.jpg",
+    "static/media/equipment-3.jpg": "/static/media/equipment-3.4aa43abc7a05077daf22.jpg",
+    "static/media/equipment-1.jpg": "/static/media/equipment-1.a2749f24638c0bc7508e.jpg",
+    "static/media/logo.png": "/static/media/logo.bd853da07a15b5a90317.png",
+    "static/media/stone-5.jpg": "/static/media/stone-5.0405e62a37a2201bb777.jpg",
+    "static/media/stone-4.jpg": "/static/media/stone-4.0b990cbc611719547ec2.jpg",
+    "static/media/stone-6.jpg": "/static/media/stone-6.ebf1238daa8a6346ff22.jpg",
+    "static/media/love-bg.jpeg": "/static/media/love-bg.2bbd7685626283b8178b.jpeg",
+    "static/media/stone-3.jpg": "/static/media/stone-3.989dc5deb8209b2a7ac9.jpg",
+    "static/media/stone-2.jpg": "/static/media/stone-2.64b809fefd7abda82dff.jpg",
+    "static/media/stone-1.jpg": "/static/media/stone-1.be63f59826142cccbc7e.jpg",
+    "static/media/team-2.jpg": "/static/media/team-2.efb3c72a79ab8d10ae6b.jpg",
+    "static/media/team-4.jpg": "/static/media/team-4.924b761cade8ecc36529.jpg",
+    "static/media/team-3.jpg": "/static/media/team-3.9d7c1d3f2d6d314884d0.jpg",
+    "index.html": "/index.html",
+    "main.e35dc868.css.map": "/static/css/main.e35dc868.css.map",
+    "main.b8e981f4.js.map": "/static/js/main.b8e981f4.js.map",
+    "787.f728f607.chunk.js.map": "/static/js/787.f728f607.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e35dc868.css",
+    "static/js/main.b8e981f4.js"
+  ]
+}
